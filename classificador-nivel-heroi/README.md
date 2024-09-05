@@ -52,7 +52,7 @@ Para executar o projeto:
 git clone https://github.com/lettyviana/dio-formacao-logica-programacao.git
 ```
 
-* Execute o arquivo index.html e preencha os dados solicitados.
+* Execute o arquivo <strong style="color:orange">index.html</strong> na <strong style="color:lightblue">pasta "classificador-nivel-heroi"</strong> e preencha os dados solicitados.
 
 ## **Status**
 
