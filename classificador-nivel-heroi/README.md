@@ -29,6 +29,7 @@ Este é o primeiro desafio proposto da Formação Lógica de Programação da DI
 ## **Minhas implementações**
 
 Decidi incluir um front-end para ser mais fácil de interagir. <br/>
+Mas também deixei uma opção para acessar pelo terminal.
 
 ## **Tecnologias/linguagens utilizadas:**
 
@@ -38,12 +39,9 @@ Decidi incluir um front-end para ser mais fácil de interagir. <br/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35px" alt="JavaScript" align="center" />
 </div><br />
 
-#
-
 ## **Instruções**
 
-Para executar o projeto:
-
+#### **Instruções iniciais:**
 - Escolha o diretório/pasta onde deseja salvar o projeto;
 - Abra o terminal/[git bash](https://git-scm.com/downloads) no diretório/pasta escolhido;
 - Dê o comando:
@@ -52,7 +50,20 @@ Para executar o projeto:
 git clone https://github.com/lettyviana/dio-formacao-logica-programacao.git
 ```
 
-* Execute o arquivo <strong style="color:orange">index.html</strong> na <strong style="color:lightblue">pasta "classificador-nivel-heroi"</strong> e preencha os dados solicitados.
+### **Vocês têm duas alternativas para executar o projeto:**
+
+#### **1ª: usando a interface que criei:**
+
+* Acesse a <strong style="color:lightblue">pasta "classificador-nivel-heroi"</strong>;
+* Execute o arquivo <strong style="color:orange">index.html</strong> na <strong style="color:lightblue">pasta "classificador-nivel-heroi"</strong>, preencha os dados solicitados e clique em <strong>"Conferir classificação"</strong>.
+
+#### **2ª: usando o terminal:**
+
+  - Acesse o terminal;
+  - Digite o comando: `cd [caminho-até-a-pasta-src]` e pressione ENTER; ou 
+  - Dentro da <strong style="color:lightblue">pasta src</strong>, pressione o botão SHIFT e clique com o botão direito do mouse em <strong>"Abrir no Terminal"</strong> ou <strong>"Abrir janela do PowerShell aqui"</strong> (meu SO é o Windows, se alguém souber qual é a opção para os demais, me informe, por favor);
+  - Em seguida, digite o comando `node terminal-interaction-script.js` e pressione ENTER;
+  - Insira os dados solicitados e pressione ENTER a cada preenchimento;
 
 ## **Status**
 
