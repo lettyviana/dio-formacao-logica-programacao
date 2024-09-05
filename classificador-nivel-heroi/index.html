@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Classificador de Nível de Herói</title>
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <main>
+      <section>
+        <h1 id="main-title">Classificação de herói/heroína</h1>
+        <div id="loader"></div>
+        <form id="form-section" style="display: none">
+          <fieldset>
+            <input
+              type="text"
+              id="hero-name"
+              placeholder="Digite o nome do seu herói/heroína"
+            />
+          </fieldset>
+          <fieldset>
+            <span
+              >Gênero:
+              <select name="gender" id="gender">
+                <option value="">Escolha aqui</option>
+                <option value="F">Feminino</option>
+                <option value="M">Masculino</option>
+                <option value="other">Outros</option>
+              </select>
+            </span>
+          </fieldset>
+          <fieldset>
+            <input type="number" id="hero-xp" placeholder="Tem quanto de XP?" />
+          </fieldset>
+          <div class="result-container">
+            <button type="button" onclick="classifyHero()">Conferir classificação</button>
+            <p id="result"></p>
+            <p id="error-message"></p>
+          </div>
+        </form>
+      </section>
+    </main>
+    <footer>
+      <p>Desenvolvido por Letícia Viana</p>
+    </footer>
+    <script src="./src/script.js"></script>
+  </body>
+</html>
