@@ -2,7 +2,7 @@
 
 ## **Índice:**
 
-1. [Sobre o projeto](#sobre-o-projeto-lar-canino);
+1. [Sobre o projeto](#sobre-o-projeto-classificador-de-nível-de-herói);
 2. [Minhas implementações](#minhas-implementações);
 3. [Tecnologias/linguagens utilizadas](#tecnologiaslinguagens-utilizadas);
 4. [Instruções](#instruções);
