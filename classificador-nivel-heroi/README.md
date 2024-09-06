@@ -60,8 +60,8 @@ git clone https://github.com/lettyviana/dio-formacao-logica-programacao.git
 #### **2ª: usando o terminal:**
 
   - Acesse o terminal;
-  - Digite o comando: `cd [caminho-até-a-pasta-src]` e pressione ENTER; ou 
-  - Dentro da <strong style="color:lightblue">pasta src</strong>, pressione o botão SHIFT e clique com o botão direito do mouse em <strong>"Abrir no Terminal"</strong> ou <strong>"Abrir janela do PowerShell aqui"</strong> (meu SO é o Windows, se alguém souber qual é a opção para os demais, me informe, por favor);
+  - Digite o comando: `cd [caminho-até-a-pasta-src-da-pasta-classificador-nivel-heroi]` e pressione ENTER; ou 
+  - Dentro da <strong style="color:lightblue">pasta "src"</strong> da <strong style="color:lightblue">pasta "classificador-nivel-heroi"</strong>, pressione o botão SHIFT e clique com o botão direito do mouse em <strong>"Abrir no Terminal"</strong> ou <strong>"Abrir janela do PowerShell aqui"</strong> (meu SO é o Windows, se alguém souber qual é a opção para os demais, me informe, por favor);
   - Em seguida, digite o comando `node terminal-interaction-script.js` e pressione ENTER;
   - Insira os dados solicitados e pressione ENTER a cada preenchimento;
 
